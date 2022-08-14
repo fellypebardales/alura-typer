@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(234, 225, 198);
+}
+
+.frase {
+    font-size: 1.5rem;
+}
+
+.icones {
+    vertical-align: middle;
+}
+
+.campo_digitacao {
+    font-size: 1.5rem;
+    padding: 0 1rem;
+}
+
+button {
+    background-color: rgb(236, 244, 0);
+    border: 1px solid ivory;
+    border-radius: 2rem;
+    padding: .5rem;
+}
+
+.campo_desativado {
+    background-color: lightgray;
+}
+
+.borda_correta {
+    border: 5px solid green;
+}
+
+.borda_errada {
+    border: 5px solid red;
+}
